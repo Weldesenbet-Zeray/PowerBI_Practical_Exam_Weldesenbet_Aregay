@@ -13,7 +13,8 @@
 <img width="230" height="500" alt="image" src="https://github.com/user-attachments/assets/1835adea-f751-47ec-968d-b6b262e89269" />
 
 
-### Model View: Star Schema
+### Star Schema Model View:
+**I have used the Sales table as a fact table srrounded by the dimention tables. Some of the relationships are not active purposefully since they are aggregated table results which used only for analysis purpose not for logical relationships in the Model.**   
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/67a6a29c-4bd1-4d7e-b4db-341ba77e9d69" />
 
 ### Report Page and Dashboard pages:
