@@ -5,10 +5,10 @@
 <img width="330" height="450" alt="image" src="https://github.com/user-attachments/assets/2d6cf721-0105-4345-8658-d8edeee25b79" />
 <img width="330" height="450" alt="image" src="https://github.com/user-attachments/assets/8e8e942f-2887-4ff5-bb43-f23ef6a184ce" />
 
-<img width="225" height="450" alt="image" src="https://github.com/user-attachments/assets/9894177b-93ed-4038-9e07-9abd938b1678" />
-<img width="225" height="450" alt="image" src="https://github.com/user-attachments/assets/976ec992-2723-4c3f-a48c-75caedee9b23" />
-<img width="225" height="450" alt="image" src="https://github.com/user-attachments/assets/acea587f-e670-4c61-afc1-89e149f4e80a" />
-<img width="225" height="450" alt="image" src="https://github.com/user-attachments/assets/1835adea-f751-47ec-968d-b6b262e89269" />
+<img width="230" height="450" alt="image" src="https://github.com/user-attachments/assets/9894177b-93ed-4038-9e07-9abd938b1678" />
+<img width="230" height="450" alt="image" src="https://github.com/user-attachments/assets/976ec992-2723-4c3f-a48c-75caedee9b23" />
+<img width="230" height="450" alt="image" src="https://github.com/user-attachments/assets/acea587f-e670-4c61-afc1-89e149f4e80a" />
+<img width="230" height="450" alt="image" src="https://github.com/user-attachments/assets/1835adea-f751-47ec-968d-b6b262e89269" />
 
 
 ### Model View: Star Schema
