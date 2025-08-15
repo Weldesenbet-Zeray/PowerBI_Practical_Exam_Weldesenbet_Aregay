@@ -1,7 +1,7 @@
 # PowerBI_Practical_Exam_Weldesenbet_Aregay
 
 ### Power Query Screenshots:   
-**Shows the transformation applied to each table during the transformation stage.**  
+**Shows the transformations applied to each table during the transformation stage and the claculated tables or aggregated tables using as a reference of the orignal tables for storage optimization.**     
 <img width="330" height="450" alt="image" src="https://github.com/user-attachments/assets/0bcc2337-fd46-4241-b842-2c61e666e68f" />
 <img width="330" height="450" alt="image" src="https://github.com/user-attachments/assets/2d6cf721-0105-4345-8658-d8edeee25b79" />
 <img width="330" height="450" alt="image" src="https://github.com/user-attachments/assets/8e8e942f-2887-4ff5-bb43-f23ef6a184ce" />
