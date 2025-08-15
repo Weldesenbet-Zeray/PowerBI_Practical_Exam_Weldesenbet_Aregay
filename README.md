@@ -64,3 +64,49 @@ IF (
     ) <= 5,
     [Total Sales]
 )
+```
+
+## Key Insights
+- **Electronics** category contributed the highest proportion of total sales.
+- Top 5 products generated over **35%** of total revenue.
+- Profit margin for the overall business averaged **28%**, slightly below the target of **30%**.
+- Sales showed strong seasonal peaks in **Q4** across all years.
+- **United States** region consistently outperformed other regions in both revenue and quantity sold.
+- **Medium** sales category represented the largest share of transactions, showing a balanced mid-range market demand.
+
+---
+
+## Challenges & Solutions
+**Challenge:** Creating realistic, large-volume retail dataset due to lack of access to official AdventureWorksDW2020.  
+**Solution:** Simulated a synthetic dataset (>10,000 rows) with realistic sales patterns, product categories, and geographic diversity using Python & Faker library.
+
+**Challenge:** Avoiding performance lag with multiple aggregated tables.  
+**Solution:** Created reference tables in Power Query to store aggregated results instead of keeping full duplicates.
+
+**Challenge:** Ensuring role-based data security.  
+**Solution:** Implemented Row-Level Security (RLS) in Power BI Service, assigning country/region-based access.
+
+---
+
+## Assumptions & Limitations
+- Dataset is simulated but modeled after realistic retail sales patterns and AdventureWorks structure.
+- Forecast visuals assume a **linear trend** without seasonality adjustments.
+- Customer data is fictitious and for demonstration purposes only.
+- Budget values in bullet charts are estimated at **1.2 × product cost**.
+
+## Repository Structure
+PowerBI_Practical_Exam_Weldesenbet_Aregay/
+│
+├── AdventureWorks_Equivalent.xlsx       # Simulated dataset
+├── PowerBI_Practical_Exam.pbix           # Power BI project file
+├── report_export.pdf                     # Exported PDF of full report
+├── README.md                             # Project documentation (this file)
+├── screenshots/                          # Visuals, dashboards, RLS setup
+│   ├── power_query_editor.png
+│   ├── model_view.png
+│   ├── report_page1.png
+│   ├── report_page2.png
+│   ├── report_page3.png
+│   ├── dashboard.png
+│   ├── rls_setup.png
+│   └── top5_sales_visual.png
