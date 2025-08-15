@@ -95,18 +95,18 @@ IF (
 - Budget values in bullet charts are estimated at **1.2 × product cost**.
 
 ## Repository Structure
-PowerBI_Practical_Exam_Weldesenbet_Aregay/
-│
-├── AdventureWorks_Equivalent.xlsx       # Simulated dataset
-├── PowerBI_Practical_Exam.pbix           # Power BI project file
-├── report_export.pdf                     # Exported PDF of full report
-├── README.md                             # Project documentation (this file)
-├── screenshots/                          # Visuals, dashboards, RLS setup
-│   ├── power_query_editor.png
-│   ├── model_view.png
-│   ├── report_page1.png
-│   ├── report_page2.png
-│   ├── report_page3.png
-│   ├── dashboard.png
-│   ├── rls_setup.png
-│   └── top5_sales_visual.png
+PowerBI_Practical_Exam_Weldesenbet_Aregay/  
+│  
+├── AdventureWorks_Equivalent.xlsx       # Simulated dataset  
+├── PowerBI_Practical_Exam.pbix           # Power BI project file  
+├── report_export.pdf                     # Exported PDF of full report   
+├── README.md                             # Project documentation (this file)  
+├── screenshots/                          # Visuals, dashboards, RLS setup   
+│   ├── power_query_editor.png  
+│   ├── model_view.png  
+│   ├── report_page1.png  
+│   ├── report_page2.png  
+│   ├── report_page3.png  
+│   ├── dashboard.png   
+│   ├── rls_setup.png  
+│   └── top5_sales_visual.png   
