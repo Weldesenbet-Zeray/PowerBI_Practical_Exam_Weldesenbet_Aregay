@@ -6,7 +6,7 @@
 
 
 ### Row-Level Security implementation
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/b1b6d1fd-44fc-482a-aeee-85d3aa889d37" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/b1b6d1fd-44fc-482a-aeee-85d3aa889d37" />
 
 ## Top 5 Sales DAX Measure 
 
