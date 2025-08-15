@@ -21,4 +21,4 @@ IF (
 )
 ```
 ### Here is the visual of the above DAX
-<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/d1e69084-bd0b-4885-8662-980e5d436cda" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d1e69084-bd0b-4885-8662-980e5d436cda" />
