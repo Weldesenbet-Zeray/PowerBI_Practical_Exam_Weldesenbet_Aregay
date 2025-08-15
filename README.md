@@ -10,15 +10,19 @@
 
 ## Top 5 Sales DAX Measure 
 
-This DAX measure displays sales values only for the top 5 ranked products, based on total sales.
+This DAX measure returns the total sales amount for only the **top 5 products** based on sales.
 
 ### DAX Code
 ```DAX
-Top 5 Sales =
+Top 5 Sales = 
 IF (
-    [Product Rank] <= 5,
+    RANKX (
+        ALL ( Products[ProductName] ),
+        [Total Sales]
+    ) <= 5,
     [Total Sales]
 )
+
 ```
 ### Here is the visual of the above DAX
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d1e69084-bd0b-4885-8662-980e5d436cda" />
