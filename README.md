@@ -44,6 +44,10 @@ The purpose of this project was to:
 
 ---
 
+### Adding tiles and Logo for final report:
+**Q&A natural language query for "Top selling product in 2024."**  
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/8100e411-5f30-46f5-ae81-33eb25317514" />  
+
 ### Row-Level Security implementation
 **Below is the RLS implementation in the Power BI Service. Managers are assigned access according to their country and region, ensuring data visibility is restricted to relevant geographic areas.**  
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/b1b6d1fd-44fc-482a-aeee-85d3aa889d37" />
